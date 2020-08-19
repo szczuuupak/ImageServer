@@ -1,0 +1,25 @@
+{
+  "name": "imageserver",
+  "version": "1.0.0",
+  "description": "Small server to share assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szczuuupak/ImageServer.git"
+  },
+  "keywords": [
+    "expressjs",
+    "js",
+    "assets",
+    "images"
+  ],
+  "author": "szczupak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szczuuupak/ImageServer/issues"
+  },
+  "homepage": "https://github.com/szczuuupak/ImageServer#readme"
+}
